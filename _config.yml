@@ -9,13 +9,14 @@
 title: Reality Update
 email: ru.informatics@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Reality Update strive to bring legitimate information to the people
+  who are looking for ways to be a better version of themselves. We hope
+  to give as much as we can, so anyway reader's can give back to promote 
+  this blog means everything.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: N/A
+github_username:  matt1moore
 
 # Build settings
 markdown: kramdown
